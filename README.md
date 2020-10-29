@@ -28,7 +28,7 @@ I’m currently an intern at Etna Digital Growth (Catania) through Polimi as a f
 
 <!--START_SECTION:waka-->
 ```text
-TypeScript   4 hrs 4 mins    ████████████████████████    99.10 % 
+TypeScript   4 hrs 4 mins    🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲    99.10 % 
 JSON         1 min                                       00.72 % 
 ```
 <!--END_SECTION:waka-->
