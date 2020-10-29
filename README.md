@@ -22,3 +22,10 @@ I’m currently an intern at Etna Digital Growth (Catania) through Polimi as a f
 
 [![C](https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white)](<https://en.wikipedia.org/wiki/C_(programming_language)>)
 [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
+
+
+## My activity
+
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
