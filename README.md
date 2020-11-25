@@ -24,7 +24,7 @@ I’m currently an intern at Etna Digital Growth (Catania) through Polimi as a f
 [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
 
 
-## My activity
+## My activity this week
 
 <!--START_SECTION:waka-->
 ```text
