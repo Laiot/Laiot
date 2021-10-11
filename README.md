@@ -4,10 +4,10 @@
 </div>
 
 <div align="center">
-<h3>💻 Full-Stack Developer | 🌏 Catania, Italy </h3>
+<h3>💻 Full-Stack Developer | 🌏 Milan, Italy </h3>
 </div>
 
-I’m currently an intern at Etna Digital Growth (Catania) through Polimi as a full stack developer.
+I’m currently working at Red Hat (Milan) as a Solution Architect.
 
 ### Right now I'm learning and working with:
 
