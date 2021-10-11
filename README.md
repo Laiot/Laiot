@@ -4,10 +4,10 @@
 </div>
 
 <div align="center">
-<h3>💻 Full-Stack Developer | 🌏 Milan, Italy </h3>
+<h3>💻 Technical Grad | 🌏 Milan, Italy </h3>
 </div>
 
-I’m currently working at Red Hat (Milan) as a Solution Architect.
+I’m currently working at Red Hat (Milan) as a Technical Graduate.
 
 ### Right now I'm learning and working with:
 
