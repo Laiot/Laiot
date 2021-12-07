@@ -5,11 +5,8 @@
 
 <div align="center">
 <h3>💻 Technical Grad at Red Hat | 🌏 Milan, Italy </h3>
+
 </div>
-
-### Spotify Playing 🎧
-
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/jck4o2j00vjzve6t4iobuzhmq)
 
 ## My activity this week
 
