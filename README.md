@@ -4,10 +4,12 @@
 </div>
 
 <div align="center">
-<h3>💻 Technical Grad | 🌏 Milan, Italy </h3>
+<h3>💻 Technical Grad at Red Hat | 🌏 Milan, Italy </h3>
 </div>
 
-I’m currently working at Red Hat (Milan) as a Technical Graduate.
+### Spotify Playing 🎧
+
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/jck4o2j00vjzve6t4iobuzhmq)
 
 ## My activity this week
 
