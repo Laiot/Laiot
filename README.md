@@ -16,6 +16,6 @@
 
 <!--START_SECTION:waka-->
 ```text
-Rust   1 hr 9 mins     🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩   99.46 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
