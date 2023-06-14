@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-<h3>💻 Technical Grad at Red Hat | 🌏 Milan, Italy </h3>
+<h3>💻 Technical Account Manager at Red Hat | 🌏 Milan, Italy </h3>
 
  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=jck4o2j00vjzve6t4iobuzhmq&cover_image=true&theme=compact)](https://github.com/kittinan/spotify-github-profile)
  
